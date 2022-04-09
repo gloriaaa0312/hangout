@@ -44,7 +44,7 @@
     "compileType": "miniprogram",
     "libVersion": "2.21.4",
     "appid": "wxd0fc3ce95c6d5b80",
-    "projectname": "HanGouT",
+    "projectname": "hangout",
     "debugOptions": {
         "hidedInDevtools": []
     },
